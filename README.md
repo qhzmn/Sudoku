@@ -1,7 +1,7 @@
 # Sudoku
 
 Résolveur de Sudoku en Python
-Description
+Description :
 Ce projet propose une implémentation Python pour résoudre un puzzle de Sudoku. La méthode s'appuie sur une analyse logique pour déterminer les valeurs possibles pour chaque case vide en tenant compte des contraintes suivantes :
 -  Chaque ligne doit contenir des chiffres uniques de 1 à 9.
 -  Chaque colonne doit contenir des chiffres uniques de 1 à 9.
